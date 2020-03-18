@@ -1,0 +1,27 @@
+.full-height-container {
+  height: 100vh;
+  align-items: center;
+}
+
+.nav-bar {
+  position: fixed;
+  top: 50px;
+  right: 8%;
+  a {
+    margin-left: 10px;
+    color: black;
+    transition: color 0.3s ease-in-out;
+    &:hover {
+      color: green;
+      text-decoration: none;
+    }
+  }
+}
+
+.svg-container {
+  svg {
+    margin: 20px 20px 0 0;
+    max-width: 120px;
+    max-height: 70px;
+  }
+}
