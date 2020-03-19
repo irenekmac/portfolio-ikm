@@ -19,9 +19,52 @@
 }
 
 .svg-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
   svg {
+    flex: 1;
+    min-width: 120px;
     margin: 20px 20px 0 0;
     max-width: 120px;
     max-height: 70px;
   }
+}
+
+.project img{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: flex-start;
+  max-width: 400px;
+}
+
+.project .box .imgBox img {
+  max-width: 100%;
+  transition: transform 2s;
+}
+
+.project .box:hover .imgBox img {
+  transform: scale(1.2);
+}
+
+.project .box:hover .details {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.project .box:hover .details .content {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+  padding: 15px;
+  color: #fff;
+  margin: 1em 1em 1em 2em;
 }

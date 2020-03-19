@@ -1,4 +1,5 @@
 import React, { Fragment } from "react";
+
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
@@ -10,7 +11,6 @@ function App() {
       <div className="nav-bar">
         <a href="#home">Home</a>
         <a href="#about">About</a>
-        <a href="#technologies">Technologies</a>
         <a href="#projects">Projects</a>
         <a href="#contact">Contact</a>
       </div>
@@ -257,6 +257,32 @@ function App() {
                 ></path>
               </svg>
             </div>
+          </Col>
+        </Row>
+
+        <Row className="full-height-container">
+          <Col>
+            <h1>Projects.</h1>
+            <div className='project'>
+              <a href="https://rails-heroku-vitrectomyhire.herokuapp.com/">
+              <img src="https://res.cloudinary.com/dlbfbi0rp/image/upload/c_limit,h_535,q_100,w_485/v1584265583/Screen_Shot_2020-03-15_at_8.45.36_pm_slyysd.png" alt="web app icon"></img>
+              </a>
+              <h3>Vitrectomy</h3>
+              <span>e-commerce website</span>
+
+          <a href="https://rails-heroku-vitrectomyhire.herokuapp.com/">
+              <img src="https://res.cloudinary.com/dlbfbi0rp/image/upload/v1584501813/Screen_Shot_2020-03-18_at_2.22.16_pm_jobxlv.png" alt="web app icon"></img>
+              </a>
+              <h3>Tic-Tac-Toe</h3>
+              <span>game app</span>
+
+            <a href="https://rails-heroku-vitrectomyhire.herokuapp.com/">
+                <img src="https://res.cloudinary.com/dlbfbi0rp/image/upload/v1584501813/Screen_Shot_2020-03-18_at_2.22.16_pm_jobxlv.png" alt="web app icon"></img>
+                </a>
+                <h3>Hangry</h3>
+                <span>Restaurant web app</span>
+        </div>
+
           </Col>
         </Row>
       </Container>
