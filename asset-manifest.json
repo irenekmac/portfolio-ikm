@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-ikm/static/css/main.a064b293.chunk.css",
+    "main.js": "/portfolio-ikm/static/js/main.3262fc84.chunk.js",
+    "main.js.map": "/portfolio-ikm/static/js/main.3262fc84.chunk.js.map",
+    "runtime-main.js": "/portfolio-ikm/static/js/runtime-main.b5823f6b.js",
+    "runtime-main.js.map": "/portfolio-ikm/static/js/runtime-main.b5823f6b.js.map",
+    "static/css/2.de424728.chunk.css": "/portfolio-ikm/static/css/2.de424728.chunk.css",
+    "static/js/2.c33df47c.chunk.js": "/portfolio-ikm/static/js/2.c33df47c.chunk.js",
+    "static/js/2.c33df47c.chunk.js.map": "/portfolio-ikm/static/js/2.c33df47c.chunk.js.map",
+    "index.html": "/portfolio-ikm/index.html",
+    "precache-manifest.7ab8729c963be7fd1965fcebccc1d164.js": "/portfolio-ikm/precache-manifest.7ab8729c963be7fd1965fcebccc1d164.js",
+    "service-worker.js": "/portfolio-ikm/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/portfolio-ikm/static/css/2.de424728.chunk.css.map",
+    "static/css/main.a064b293.chunk.css.map": "/portfolio-ikm/static/css/main.a064b293.chunk.css.map",
+    "static/js/2.c33df47c.chunk.js.LICENSE.txt": "/portfolio-ikm/static/js/2.c33df47c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5823f6b.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.c33df47c.chunk.js",
+    "static/css/main.a064b293.chunk.css",
+    "static/js/main.3262fc84.chunk.js"
+  ]
+}
