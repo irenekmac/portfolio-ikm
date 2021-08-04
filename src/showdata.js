@@ -58,7 +58,7 @@ export default {
       projectInfo: "rando resto",
       techStack: "Ruby on Rails & React",
       imageSrc:
-        "https://res.cloudinary.com/dlbfbi0rp/image/upload/v1584501813/Screen_Shot_2020-03-18_at_2.22.16_pm_jobxlv.png",
+        "https://res.cloudinary.com/dlbfbi0rp/image/upload/v1584711463/Screen_Shot_2020-03-21_at_12.35.07_am_poo9st.png",
       url: "https://github.com/irenekmac/front-end-resto",
       code: ""
     }
