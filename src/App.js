@@ -270,14 +270,14 @@ function App() {
               <h3>Vitrectomy</h3>
               <span>e-commerce website</span>
 
-          <a href="https://rails-heroku-vitrectomyhire.herokuapp.com/">
+          <a href="https://irenekmac.github.io/tic-tac-toe/">
               <img src="https://res.cloudinary.com/dlbfbi0rp/image/upload/v1584501813/Screen_Shot_2020-03-18_at_2.22.16_pm_jobxlv.png" alt="web app icon"></img>
               </a>
               <h3>Tic-Tac-Toe</h3>
               <span>game app</span>
 
             <a href="https://rails-heroku-vitrectomyhire.herokuapp.com/">
-                <img src="https://res.cloudinary.com/dlbfbi0rp/image/upload/v1584501813/Screen_Shot_2020-03-18_at_2.22.16_pm_jobxlv.png" alt="web app icon"></img>
+                <img src="https://res.cloudinary.com/dlbfbi0rp/image/upload/v1584711463/Screen_Shot_2020-03-21_at_12.35.07_am_poo9st.png" alt="web app icon"></img>
                 </a>
                 <h3>Hangry</h3>
                 <span>Restaurant web app</span>
